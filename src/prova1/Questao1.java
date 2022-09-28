@@ -6,7 +6,7 @@ public class Questao1 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		int vetorA = 6;
+		int vetorA = 1500;
 		int valores[] = new int[vetorA];
 		int x = 0;
 		int y = 0;
